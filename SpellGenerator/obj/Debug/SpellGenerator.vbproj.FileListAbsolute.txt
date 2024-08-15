@@ -1,0 +1,16 @@
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\bin\Debug\SpellGenerator.exe.config
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\bin\Debug\SpellGenerator.exe
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\bin\Debug\SpellGenerator.pdb
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\bin\Debug\SpellGenerator.xml
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.vbprojResolveAssemblyReference.cache
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\MainWindow.g.vb
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\Application.g.vb
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator_MarkupCompile.cache
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator_MarkupCompile.lref
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\MainWindow.baml
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.g.resources
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.Resources.resources
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.vbproj.GenerateResource.Cache
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.exe
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.xml
+c:\users\rclough\documents\visual studio 2015\Projects\SpellGenerator\SpellGenerator\obj\Debug\SpellGenerator.pdb
